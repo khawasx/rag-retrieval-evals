@@ -1,0 +1,20 @@
+{"question": "Who is eligible for remote work?", "relevant_chunk_ids": ["remote_work_policy.md::eligibility"], "answer_terms": ["probation", "remote work"]}
+{"question": "What are the core hours for remote employees?", "relevant_chunk_ids": ["remote_work_policy.md::core_hours"], "answer_terms": ["10:00", "16:00"]}
+{"question": "What equipment stipend is provided for remote workers?", "relevant_chunk_ids": ["remote_work_policy.md::equipment"], "answer_terms": ["monitor stipend", "500"]}
+{"question": "Do remote workers need VPN access?", "relevant_chunk_ids": ["remote_work_policy.md::security"], "answer_terms": ["vpn", "internal systems"]}
+{"question": "What expenses are reimbursable?", "relevant_chunk_ids": ["expense_policy.md::covered_expenses"], "answer_terms": ["travel", "receipts"]}
+{"question": "How soon must expense reports be submitted?", "relevant_chunk_ids": ["expense_policy.md::submission_deadline"], "answer_terms": ["30 days"]}
+{"question": "What is the domestic travel per diem rate?", "relevant_chunk_ids": ["expense_policy.md::per_diem_rates"], "answer_terms": ["65 per day"]}
+{"question": "Are personal entertainment expenses reimbursable?", "relevant_chunk_ids": ["expense_policy.md::prohibited_expenses"], "answer_terms": ["personal entertainment", "not reimbursable"]}
+{"question": "How quickly must P1 alerts be acknowledged?", "relevant_chunk_ids": ["incident_response.md::p1_response_time"], "answer_terms": ["15 minutes"]}
+{"question": "What defines a P1 incident?", "relevant_chunk_ids": ["incident_response.md::severity_levels"], "answer_terms": ["production outages", "security breaches"]}
+{"question": "When should incidents be escalated to leadership?", "relevant_chunk_ids": ["incident_response.md::escalation"], "answer_terms": ["60 minutes", "engineering leadership"]}
+{"question": "When is a post-incident review required?", "relevant_chunk_ids": ["incident_response.md::post_incident_review"], "answer_terms": ["postmortem", "5 business days"]}
+{"question": "How long are customer records retained?", "relevant_chunk_ids": ["data_retention.md::customer_data_retention"], "answer_terms": ["7 years"]}
+{"question": "How long are database backups kept?", "relevant_chunk_ids": ["data_retention.md::backup_retention"], "answer_terms": ["35 days"]}
+{"question": "What is required for exporting PII?", "relevant_chunk_ids": ["data_retention.md::pii_handling"], "answer_terms": ["legal approval"]}
+{"question": "How long do we have to complete deletion requests?", "relevant_chunk_ids": ["data_retention.md::right_to_erasure"], "answer_terms": ["30 days"]}
+{"question": "What network security is required at home?", "relevant_chunk_ids": ["remote_work_policy.md::equipment"], "answer_terms": ["wpa2"]}
+{"question": "What receipt threshold applies to expenses?", "relevant_chunk_ids": ["expense_policy.md::covered_expenses"], "answer_terms": ["amounts over $25"]}
+{"question": "What is P2 incident severity?", "relevant_chunk_ids": ["incident_response.md::severity_levels"], "answer_terms": ["major feature degradation", "paid customers"]}
+{"question": "Are fines reimbursable?", "relevant_chunk_ids": ["expense_policy.md::prohibited_expenses"], "answer_terms": ["fines", "not reimbursable"]}

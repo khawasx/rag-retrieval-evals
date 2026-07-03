@@ -1,0 +1,6 @@
+numpy>=1.26
+scikit-learn>=1.4
+typer>=0.12
+rich>=13.0
+pyyaml>=6.0
+tabulate>=0.9

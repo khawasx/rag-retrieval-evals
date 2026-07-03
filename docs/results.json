@@ -1,0 +1,22 @@
+{
+  "naive": {
+    "precision_at_k": 0.24000000000000005,
+    "recall_at_k": 0.95,
+    "mrr": 0.8583333333333334
+  },
+  "semantic": {
+    "precision_at_k": 0.17,
+    "recall_at_k": 0.8,
+    "mrr": 0.7041666666666667
+  },
+  "naive_rerank": {
+    "precision_at_k": 0.25,
+    "recall_at_k": 0.9666666666666666,
+    "mrr": 0.8583333333333334
+  },
+  "semantic_rerank": {
+    "precision_at_k": 0.18,
+    "recall_at_k": 0.825,
+    "mrr": 0.7016666666666667
+  }
+}
